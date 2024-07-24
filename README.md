@@ -77,12 +77,12 @@ PPO 모델을 사용헤 목표에 도달
 Pet Detector
   - [Training](https://github.com/5121eun/Detector/blob/master/Detector/pet_segmentation.ipynb)
   - [Program](https://github.com/5121eun/Detector/blob/master/Detector/Detector.cpp)
-<!--
+
 ## Chat
 <img src="https://github.com/5121eun/chat_back/assets/121006954/1af7d5a6-20f7-44b8-b69c-307bbcc96507" width="50%" height="50%"/>
 
 챗봇
 - [front](https://github.com/5121eun/chat_front)
 - [back](https://github.com/5121eun/chat_back)
--->
+
 
